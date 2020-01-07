@@ -1,0 +1,5 @@
+Input Numbers in following order followed by new-line: number of molecules, molecular size
+10
+2
+
+
