@@ -1,4 +1,0 @@
-Bob lives in Boston
-Sam lives    in Houston
-Jay       lives in Ruston
-Bill        lives in           Atlanta
